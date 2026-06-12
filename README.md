@@ -8,12 +8,6 @@ The pipeline extracts product data from an API, transforms and cleans the data, 
 
 ---
 
-## Dashboard Preview
-
-![Dashboard](dashboard.png)
-
----
-
 ## Project Architecture
 
 ```text
